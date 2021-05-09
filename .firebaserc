@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "netflix-5db1a": {
+      "hosting": {
+        "netflix": [
+          "netflix-5db1a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "netflix": "netflix-5db1a"
+  }
+}
